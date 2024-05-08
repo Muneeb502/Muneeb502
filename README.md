@@ -2,7 +2,7 @@
 <h3 align="center">
 "Hi! 👋 This is  Muneeb Ur Rehman, a Cybersecurity-focused Computer Science student. Proficient in HTML, CSS, Java, C++, Python, Flask, with hands-on experience in API testing and chatbot development. Committed to driving innovation and excellence in cybersecurity, I continuously evolve to stay ahead of the curve."</h3>
 
-<img align="right" src="https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif" alt="animated picture" width="100%" height="500">
+<img align="center" src="https://raw.githubusercontent.com/gist/obernardovieira/f4ec9b75736a98be5f6198f5ae40b897/raw/2546374e14122f5c0a8c7cc0c49edd07bf5d14cd/dev.gif" alt="animated picture" width="100%" height="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneeb502&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb502" /> </p>
 
