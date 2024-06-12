@@ -8,6 +8,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muneeb502" alt="muneeb502" /></a> </p>
 
+<p align="left" ><a href="https://github.com/ryo-ma/github-profile-trophy" ><img src="https://github-profile-trophy.vercel.app/?username=muneeb502"/></a</p>
+
 
 - 🔭 I’m currently working on **DATA SCIENCE**
 
