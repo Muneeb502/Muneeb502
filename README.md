@@ -34,6 +34,7 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneeb502&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="muneeb502" />
 </p>
+<br/>
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=muneeb502&show_icons=true&locale=en&theme=highcontrast" alt="muneeb502" />
