@@ -1,13 +1,14 @@
 <h1 align="center">Hey 👋, I'm MUNEEB-UR-REHMAN</h1>
 <h3 align="center">
-"Hi! 👋 This is  Muneeb Ur Rehman, a Cybersecurity-focused Computer Science student. Proficient in HTML, CSS, Java, C++, Python, Flask, with hands-on experience in API testing ,backend development , data science and Machine learning Committed to driving innovation and excellence in cybersecurity, I continuously evolve to stay ahead of the curve."</h3>
+"Hi! 👋 I’m Muneeb Ur Rehman, a Computer Science student with a passion for Cybersecurity 🔐, Data Science 📊, and Machine Learning 🤖. Proficient in HTML, CSS, Java, C++, Python, and Flask, I have hands-on experience in API testing, backend development, and crafting intelligent, data-driven solutions. Committed to driving innovation and excellence in cybersecurity, I continuously evolve to stay ahead of the curve, leveraging the latest technologies to make a meaningful impact. Let’s connect and build the future together! 🌟"</h3>
+
 
 <img align="center" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" alt="animated picture" width="100%" height="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneeb502&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb502" /> </p>
 
 
-- 🔭 I’m currently working on **DATA SCIENCE**
+- 🔭 I’m currently working on **DATA SCIENCE, Machine learning**
 
 - 🌱 I’m currently learning **flask, django, python , Machine Learning.**
 
