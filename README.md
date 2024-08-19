@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **DATA SCIENCE, Machine learning**
 
-- 🌱 I’m currently learning **flask, django, python , Machine Learning.**
+- 🌱 I’m currently learning **python ,Data Science, Machine Learning.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muneeb502](https://github.com/Muneeb502)
 
