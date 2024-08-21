@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/muneeb-ur-rehman-99580b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/muneeb-ur-rehman-99580b277?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-- ⚡ Fun fact **I think i an funnny , naughty and talkative**
+- ⚡ Fun fact **I think i am funnny , naughty and talkative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
