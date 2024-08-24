@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneeb502&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb502" /> </p>
 
 
-- 🔭 I’m currently working on **DATA SCIENCE, Machine learning**
+- 🔭 I’m currently working on **DATA SCIENCE, Machine learning, Deep Learning**
 
 - 🌱 I’m currently learning **python ,Data Science, Machine Learning.**
 
