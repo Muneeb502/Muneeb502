@@ -7,8 +7,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneeb502&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb502" /> </p>
 
+<div align="center">
+        
+   ## Visitor Count
+   ![Visitor Count](https://profile-counter.glitch.me/{Muneeb502}/count.svg)
+        
+</div>
 
-- 🔭 I’m currently working on **DATA SCIENCE, Machine learning, Deep Learning**
+<div align="center">
+  
+<b>❤️ Thank you for visiting my Github Profile ❤️</b>
+</div>
+
+- 🔭 I’m currently working on **DATA SCIENCE, Machine learning **
 
 - 🌱 I’m currently learning **python ,Data Science, Machine Learning.**
 
