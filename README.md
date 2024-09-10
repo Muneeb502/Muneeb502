@@ -5,19 +5,8 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif" alt="animated picture" width="100%" height="500">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muneeb502&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb502" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muneeb502&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb502" /> Thank you for visiting my Github Profile </p>
 
-<div align="center">
-        
-   ## Visitor Count
-   ![Visitor Count](https://profile-counter.glitch.me/{Muneeb502}/count.svg)
-        
-</div>
-
-<div align="center">
-  
-<b>❤️ Thank you for visiting my Github Profile ❤️</b>
-</div>
 
 - 🔭 I’m currently working on **DATA SCIENCE, Machine learning **
 
