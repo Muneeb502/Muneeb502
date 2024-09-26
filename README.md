@@ -15,7 +15,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Muneeb502](https://github.com/Muneeb502)
 - 🌐 Portfolio: https://muneeb502.github.io/
 - 📫 How to reach me **mu0476080@gmail.com**
-- ⚡ Fun fact **I think i am funnny , naughty and talkative**
+- ⚡ Fun fact **I think i am funnny and talkative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
