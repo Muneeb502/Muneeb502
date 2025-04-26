@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneeb502&label=Profile%20views&color=0e75b6&style=flat" alt="muneeb502" /> Thank you for visiting my Github Profile </p>
 
 
-- 🔭 I’m currently working on **DATA SCIENCE, Machine learning **
+- 🔭 I’m currently working on **DATA SCIENCE, Machine learning  , Gen AI**
 
 - 🌱 I’m currently learning **python ,Data Science, Machine Learning.**
 
@@ -19,8 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muneeb-ur-rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muneeb-ur-rehman" height="30" width="40" /></a>
-<a href="https://fb.com/saif ur rehman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saif ur rehman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muneeb-ur-rehman-99580b277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muneeb-ur-rehman" height="30" width="40" /></a>
 <a href="https://instagram.com/saif_ur502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saif_ur502" height="30" width="40" /></a>
 </p>
 
